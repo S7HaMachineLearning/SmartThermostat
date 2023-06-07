@@ -17,4 +17,4 @@ options:
   message: "Hello this is you smart thermostat speaking"
 schema:
   message: "str?"
-#image: "ghcr.io/s7hamachinelearning/smartthermostat/{arch}-smart-thermostat"
+image: "ghcr.io/s7hamachinelearning/smartthermostat/{arch}-smart-thermostat"
