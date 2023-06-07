@@ -17,4 +17,4 @@ options:
   message: "Hello this is you smart thermostat speaking"
 schema:
   message: "str?"
-image: "ghcr.io/home-assistant/{arch}-addon-example"
+image: "https://github.com/S7HaMachineLearning/SmartThermostat/{arch}-addon-example"
