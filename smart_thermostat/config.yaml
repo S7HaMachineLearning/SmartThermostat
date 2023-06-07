@@ -3,7 +3,7 @@ name: Smart Thermostat
 version: "0.0.1"
 slug: smart_thermostat
 description: The Home Assistant smart thermostat addon
-url: "https://github.com/S7HaMachineLearning/SmartThermostat"
+url: "https://github.com/s7hamachinelearning/smartthermostat"
 arch:
   - armhf
   - armv7
@@ -17,4 +17,4 @@ options:
   message: "Hello this is you smart thermostat speaking"
 schema:
   message: "str?"
-image: "ghcr.io/S7HaMachineLearning/SmartThermostat/{arch}-smart-thermostat"
+image: "ghcr.io/s7hamachinelearning/smartthermostat/{arch}-smart-thermostat"
