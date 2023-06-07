@@ -2,7 +2,7 @@
 name: Smart Thermostat
 version: "0.0.1"
 slug: smart_thermostat
-description: The Home Assistant smart thermostat addon
+description: The Home Assistant smart thermostat addonn
 url: "https://github.com/s7hamachinelearning/smartthermostat"
 arch:
   - armhf
