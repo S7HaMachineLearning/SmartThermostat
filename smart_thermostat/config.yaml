@@ -1,7 +1,7 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Smart Thermostat
 version: "0.0.1"
-slug: example
+slug: smart_thermostat
 description: The HA smart thermostat addon
 url: "https://github.com/S7HaMachineLearning/SmartThermostat"
 arch:
@@ -17,4 +17,4 @@ options:
   message: "Hello this is you smart thermostat speaking"
 schema:
   message: "str?"
-image: "https://github.com/S7HaMachineLearning/SmartThermostat/{arch}-addon-example"
+image: "ghcr.io/S7HaMachineLearning/SmartThermostat/{arch}-smart-thermostat"
