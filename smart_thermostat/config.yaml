@@ -1,7 +1,7 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Smart Thermostat
 version: "0.0.1"
-slug: smart_thermostat
+slug: smart_thermostatt
 description: The Home Assistant smart thermostat addon
 url: "https://github.com/S7HaMachineLearning/SmartThermostat"
 arch:
