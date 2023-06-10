@@ -13,5 +13,4 @@ arch:
 init: false
 map:
   - share:rw
-schema: false
 image: "ghcr.io/s7hamachinelearning/{arch}-smart-thermostat"
