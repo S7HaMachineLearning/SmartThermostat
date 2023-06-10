@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Smart Thermostat
-version: "0.0.4"
+version: "0.0.5"
 slug: smart_thermostat
 description: The Home Assistant smart thermostat
 url: "https://github.com/s7hamachinelearning/smartthermostat"
@@ -16,5 +16,7 @@ map:
 image: "ghcr.io/s7hamachinelearning/{arch}-smart-thermostat"
 options:
   log_level: info
+  climate: null?
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)
+  climate: device
