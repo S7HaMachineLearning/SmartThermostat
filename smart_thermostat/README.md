@@ -1,4 +1,4 @@
-# The Home Assistant smart thermostat.
+# The Home Assistant smart thermostat
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
