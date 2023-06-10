@@ -16,7 +16,7 @@ map:
 image: "ghcr.io/s7hamachinelearning/{arch}-smart-thermostat"
 options:
   log_level: info
-  # climate: null?
+  climate: null?
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)
-  # climate: device
+  climate: device
