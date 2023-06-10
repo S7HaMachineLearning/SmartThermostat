@@ -13,4 +13,5 @@
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 ## About
+
 Let the smart thermostat control your heating and cooling to save energy and money.
