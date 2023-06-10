@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Smart Thermostat
-version: "0.0.2"
+version: "0.0.3"
 slug: smart_thermostat
 description: The Home Assistant smart thermostat
 url: "https://github.com/s7hamachinelearning/smartthermostat"
@@ -13,8 +13,4 @@ arch:
 init: false
 map:
   - share:rw
-options:
-  message: "Hello this is you smart thermostat speaking"
-schema:
-  message: "str?"
 image: "ghcr.io/s7hamachinelearning/{arch}-smart-thermostat"
