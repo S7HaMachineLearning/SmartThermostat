@@ -1,4 +1,4 @@
-# The Home Assistant smart thermostat.
+# The Home Assistant smart thermostat
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -13,4 +13,5 @@
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 ## About
+
 Let the smart thermostat control your heating and cooling to save energy and money.
